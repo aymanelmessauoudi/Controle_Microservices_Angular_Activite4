@@ -6,7 +6,7 @@
       "roles": [
         "USER"
       ],
-      "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiSW1hZCIsImxhc3RuYW1lIjoiRXR0YW1lbiIsImVtYWlsIjoiaW1hZEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.E_djfbMhfuQ5XeKL7kJYv-wj7n4U71qZH1zYJt9z2GI"
+      "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiQXltYW5lIiwibGFzdG5hbWUiOiJFbCBtZXNzb3VhZGkiLCJlbWFpbCI6ImF5bWFuZWVsbXNkQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.KnpXUhHb70mKIKecJMM1Ht5fbHzOZ64oE4u8ANsthEU"
     },
     {
       "id": "user2",
@@ -14,7 +14,7 @@
       "roles": [
         "USER"
       ],
-      "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiSW1hZCIsImxhc3RuYW1lIjoiRXR0YW1lbiIsImVtYWlsIjoiaW1hZEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.zGNTA64TUmtEG0ai3CE2EQEZBgEglKOK6mN2OrJDNww"
+      "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiQXltYW5lIiwibGFzdG5hbWUiOiJFTCBNZXNzb3VhZGkiLCJlbWFpbCI6ImF5bWFuZUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.xDD6lmohCBVwVaBBlpooEQhYQ2wPr72I2azGxVwV_H4"
     },
     {
       "id": "admin",
@@ -23,7 +23,7 @@
         "USER",
         "ADMIN"
       ],
-      "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiSW1hZCIsImxhc3RuYW1lIjoiRXR0YW1lbiIsImVtYWlsIjoiSW1hZEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.MFb8finbSZ7bT8MxGlHXlLWCF-Jd-Fj8hjn7rJq6Hw0"
+      "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiQXltYW5lIiwibGFzdG5hbWUiOiJFbCBNZXNzb3VhZGkiLCJlbWFpbCI6ImF5bWFuZUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.EV69Yv4j7uu3EGNCuu7X0-pjJCD3CAPNzzcxaywQnXM"
     }
   ],
   "products": [
